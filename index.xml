@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>とある大学生の気ままなブログ:)</title>
+    <link>http://tacks2021.github.io/</link>
+    <description>Recent content on とある大学生の気ままなブログ:)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 07 Mar 2022 06:08:04 +0900</lastBuildDate><atom:link href="http://tacks2021.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post!!</title>
+      <link>http://tacks2021.github.io/post/new-post/</link>
+      <pubDate>Mon, 07 Mar 2022 06:08:04 +0900</pubDate>
+      
+      <guid>http://tacks2021.github.io/post/new-post/</guid>
+      <description>This is some content
+public static void main(String[] args) { System.out.println(&amp;#34;This is a print statement&amp;#34;) } </description>
+    </item>
+    
+  </channel>
+</rss>
